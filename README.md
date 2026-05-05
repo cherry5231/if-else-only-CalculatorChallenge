@@ -71,5 +71,5 @@ The goal is to test problem-solving using limited constructs and see how far the
 ## Author
 
 K. Charan
-GitHub: https://github.com/cher_ry5231
+GitHub: https://github.com/cherry5231
 
